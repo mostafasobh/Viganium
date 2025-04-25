@@ -82,9 +82,9 @@ npm run dev
 
 ### 🧼 Code Quality Tools
 
-- **[Prettier](https://prettier.io/)
-- **[ESLint](https://eslint.org/)
-- **[TypeScript](https://www.typescriptlang.org/)
+- [Prettier](https://prettier.io/)
+- [ESLint](https://eslint.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ### 🧠 Scripts
 
