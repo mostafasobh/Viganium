@@ -19,7 +19,7 @@ Viganium is a lightweight REST API built with **TypeScript**, **Express**, and *
 
 ### 1. Clone the repository
 
-git clone https://github.com/mostafasobh/Task-Assessment.git
+git clone https://github.com/mostafasobh/viganium.git
 cd viganium
 
 ### 2. Install dependencies
